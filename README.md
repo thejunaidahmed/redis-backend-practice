@@ -31,7 +31,7 @@ redis-backend-practice/
 │   └── db.js
 ├── model/
 │   └── user.model.js
-├── .env.example
+├── .env
 ├── .gitignore
 ├── package.json
 ├── package-lock.json
