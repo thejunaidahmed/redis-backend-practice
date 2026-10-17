@@ -35,7 +35,7 @@ redis-backend-practice/
 ├── .gitignore
 ├── package.json
 ├── package-lock.json
-└── server.js
+└── index.js
 ```
 
 *Note: Update the structure above if your actual project uses different file or folder names.*
